@@ -1,0 +1,11 @@
+{
+  "name": "tatras_api_tester",
+  "version": "1.0.0",
+  "description": "Project allows to create and run tests for api's exposed by tatras to adaptive workbench",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandeep",
+  "license": "ISC"
+}
