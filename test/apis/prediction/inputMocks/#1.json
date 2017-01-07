@@ -1,0 +1,26 @@
+{
+  "highTimeSpent": {
+    "evidence": [],
+    "query_nodes": ["LO2"]
+  },
+
+  "lowTimeSpent": {
+    "evidence":  [
+      {
+        "node_id": "RE_0013",
+        "time_spent": {
+          "mean": 2,
+          "standard_deviation": 0
+        }
+      },
+      {
+        "node_id": "RE_0014",
+        "time_spent": {
+          "mean": 2,
+          "standard_deviation": 0
+        }
+      }
+    ],
+    "query_nodes": ["LO2"]
+  }
+}

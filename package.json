@@ -4,8 +4,13 @@
   "description": "Project allows to create and run tests for api's exposed by tatras to adaptive workbench",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --recursive"
   },
   "author": "Sandeep",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "lodash": "^4.17.4",
+    "supertest": "^2.0.1"
+  }
 }
